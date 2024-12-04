@@ -59,3 +59,4 @@ Total Profit
 
 Cosmetics is the most sold product
 
+<img width="648" alt="1" src="https://github.com/user-attachments/assets/817dc03a-038a-4f75-939d-7eb290d97ca1">
