@@ -55,4 +55,7 @@ Total Profit
 
 •	Africa has highest price sensitivity
 
+# Over All Product
+
+Cosmetics is the most sold product
 
