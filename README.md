@@ -51,6 +51,10 @@ Total Profit
 
 •	United kingdom is the only country with high cost saving
 
+
+<img width="647" alt="1" src="https://github.com/user-attachments/assets/58b09b2e-7a77-4d5b-a3b9-a70b297bc6a6">
+
+
 •	Office supply has highest price sensitivity
 
 •	Africa has highest price sensitivity
