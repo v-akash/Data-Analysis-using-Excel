@@ -5,7 +5,8 @@
 
 ✔Analysis provide insights such as Revenue,Gross profit,cost saving,Gross margin,price sensitivity.
 
-## Tool used: Microsoft Excel
+## Tool used: 
+Microsoft Excel
 
 ## Cleaning Using power Query editor:
 
@@ -16,7 +17,49 @@
 ## Calculation
 
 Revenue for Every year
-•	  =sumif(Year range,2016,revenue)
+  =sumif(Year range,2016,revenue)
 
 Profit based on item
        =vlookup(item,table_array,column_ind,0)
+
+## Findings
+
+Total revenue:
+
+•	 Started at 19M in 2016 and reached 32M in 2023
+
+•	 It was a impressive growth 	
+
+Total Profit
+
+•	started at7 M in 2016 and reached 9 M in 2023
+
+# Revenue and Profitability
+
+•	Cosmetics is the highest product based on Gross Profit
+
+•	Europe region has the highest profit
+
+•	Online shopping has gained high Gross profit
+
+•	April month has highest Gross Margin
+# Sales performance:
+
+•	High order priority with 32.04%
+
+•	Clothes has the highest average profit
+
+•	Saturday has highest average profit every month
+
+•	Offline shopping received average revenue of 2032.5
+
+
+# Cost Optimization
+
+•	United kingdom is the only country with high cost saving
+
+•	Office supply has highest price sensitivity
+
+•	Africa has highest price sensitivity
+
+
