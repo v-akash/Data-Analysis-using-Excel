@@ -14,13 +14,6 @@ Microsoft Excel
 
 •	 Apply necessary steps such removing duplicate,Spliting columns and changing data type.
 
-## Calculation
-
-Revenue for Every year
-  =sumif(Year range,2016,revenue)
-
-Profit based on item
-       =vlookup(item,table_array,column_ind,0)
 
 ## Findings
 
