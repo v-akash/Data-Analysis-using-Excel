@@ -36,7 +36,7 @@ Total Profit
 •	Online shopping has gained high Gross profit
 
 •	April month has highest Gross Margin
-# Sales performance:
+# Sales performance
 
 •	High order priority with 32.04%
 
