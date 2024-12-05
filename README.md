@@ -56,7 +56,7 @@ Total Profit
 
 
 
-# 📌 Revenue and Profitability
+## 📌 Revenue and Profitability
 
 
 
@@ -76,7 +76,7 @@ Total Profit
 
 
 
-# 📌Sales performance
+## 📌Sales performance
 
 
 
@@ -98,7 +98,7 @@ Total Profit
 
 
 
-# 📌 Cost Optimization
+## 📌 Cost Optimization
 
 
 
@@ -112,7 +112,7 @@ Total Profit
 
 •	Africa has highest price sensitivity
 
-# 📊 Over All Product
+## 📊 Over All Product
 
 Cosmetics is the most sold product
 
