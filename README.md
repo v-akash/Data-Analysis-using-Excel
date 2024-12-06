@@ -15,8 +15,6 @@ Performed essential operations including Removal of duplicates,Column splitting,
 
 ## Key Findings:
 
-Revenue Growth:
-
 📊 Total Revenue:
 
 Initiated at $19 million in 2016, and exhibited an impressive trajectory, growing to $32 million by 2023.
