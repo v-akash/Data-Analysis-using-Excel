@@ -58,8 +58,11 @@ Began at $7 million in 2016, steadily increasing to $9 million in 2023, reflecti
 
 ## Recommendation
 Focus on Cosmetics and Clothing,as the highest performing product categories, they should be prioritized for strategic growth. Consider expanding product lines, enhancing customer experiences.
+
 Invest further in e-commerce channels to continue driving profitability. Optimizing digital marketing efforts and enhancing user experiences on online platforms will capitalize strong performance.
 
 Run targeted digital marketing campaigns aimed at low performing areas to boost sales.
 
 For lower margin products, focus on reducing costs through better supply chain management.
+
+Office supplies are the most price sensitive category, a more flexible and dynamic pricing strategy could help to capture more sales. 
