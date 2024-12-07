@@ -57,10 +57,9 @@ Began at $7 million in 2016, steadily increasing to $9 million in 2023, reflecti
 📈 Cosmetics emerged as the top selling product, contributing significantly to overall sales and profitability.
 
 ## Recommendation
-Focus on Cosmetics and Clothing: As the highest performing product categories, they should be prioritized for strategic growth. Consider expanding product lines, enhancing customer experiences or introducing loyalty programs in these categories.
-
-Leverage Online Sales: Invest further in e-commerce channels to continue driving profitability. Optimizing digital marketing efforts and enhancing user experiences on online platforms will capitalize on this channel’s strong performance.
+Focus on Cosmetics and Clothing,as the highest performing product categories, they should be prioritized for strategic growth. Consider expanding product lines, enhancing customer experiences.
+Invest further in e-commerce channels to continue driving profitability. Optimizing digital marketing efforts and enhancing user experiences on online platforms will capitalize strong performance.
 
 Run targeted digital marketing campaigns aimed at low performing areas to boost sales.
 
- For lower-margin products, focus on reducing costs through better supply chain management.
+For lower margin products, focus on reducing costs through better supply chain management.
